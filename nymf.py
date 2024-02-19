@@ -64,3 +64,5 @@ if "app_key" in st.session_state:
             except Exception as e:
                 st.exception(e)
             st.session_state.history = chat.history
+
+#test nafisa.ai
