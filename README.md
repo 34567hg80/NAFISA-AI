@@ -1,5 +1,5 @@
 # Nafisa.AI
-<img src="[https://img.buzzfeed.com/buzzfeed-static/static/2023-02/1/3/asset/4512ce16c1ea/sub-buzz-1626-1675221020-32.jpg?resize=990:660"](https://media.geeksforgeeks.org/wp-content/uploads/20230911173805/What-is-Artiificial-Intelligence(AI).webp) alt="OrphanX Banner" height="175px">
+<img src="Assets/pic.png" alt="Nafisa.AI Banner" height="175px">
 <ul>
     <li>An easy adoption system , bringing orphanages across India under one platform</li>
     <li>Face Recognition based smart adoption system , matching parents with children.</li>
