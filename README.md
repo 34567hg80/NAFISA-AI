@@ -60,10 +60,10 @@ This Project is a part of KiiT University Major Project (7-Sem). Under the guida
 
 ![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Soham Samanta](https://www.linkedin.com/in/soham-samanta2000/) <br> 
 
-![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Prerak Gupta](https://www.linkedin.com/in/prerakgpa/) <br> 
+![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Shibalik Dhara](https://www.linkedin.com/in/shibalik-dhara-b5873a212/) <br> 
 
-![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Nyaasha Patwari](https://www.linkedin.com/in/nyaashapatwari18/) <br> 
+![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Hritesh Ghosh](https://www.linkedin.com/in/hritesh-g-520aa6236/) <br> 
 
-![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Diksha Pranjali](https://www.linkedin.com/in/diksha-pranjali2407/) <br> 
+![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Suhena Datta Chowdhury](https://www.linkedin.com/in/suhena-datta-chowdhury-b50a69178/) <br> 
 
-![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Neelima Paul](https://www.linkedin.com/in/neelimapaul385/) <br> 
+![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Tanmoy Roy](https://www.linkedin.com/in/tanmoy-roy-0579a5192/) <br> 
