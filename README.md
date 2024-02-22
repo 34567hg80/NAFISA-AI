@@ -1,11 +1,11 @@
 # Nafisa.AI
 <img src="Assets/pic.png" alt="Nafisa.AI Banner" height="175px">
 <ul>
-    <li>An easy adoption system , bringing orphanages across India under one platform</li>
+    <li> Harnessing the Power of LLM to create personalised assistants for research and Beyond </li>
     <li>Face Recognition based smart adoption system , matching parents with children.</li>
 </ul>
 
-### About OrphanX Project 
+### About Nafisa AI Project 
 
 
 <!-- <img src="https://i.morioh.com/f8c70ac378.png" alt="IBS Logo" height="300px" width="300px"> -->
