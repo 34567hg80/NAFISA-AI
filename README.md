@@ -2,21 +2,25 @@
 <img src="Assets/pic.png" alt="Nafisa.AI Banner" height="175px">
 <ul>
     <li> Harnessing the Power of LLM to create personalised assistants for research and Beyond </li>
-    <li>Face Recognition based smart adoption system , matching parents with children.</li>
+    <li>Using the AI API key sysetms to use different AI LLM models like Google Gemini, Open AI GPT 3.5 Turbo Insturct and Perplxity model  .</li>
 </ul>
 
 ### About Nafisa AI Project 
 
 
-<!-- <img src="https://i.morioh.com/f8c70ac378.png" alt="IBS Logo" height="300px" width="300px"> -->
-- OrphanX is a Face Recognition Project which uses OpenCV and Deep Neural Networks in it's core .<br>
-- Built with Django and support responsiveness, hence suitable for (Mobile, PC, Tablets) <br>
-- It includes ML models Siamese Network. <br>
-- Combination of all ML models done with Voting Classifier <br>
-- Combined all different detection and recognition models into a pipeline. 
+<!-- <img src="https://imgur.com/a/G2vBHMg" alt="IBS Logo" height="300px" width="300px"> -->
+- ##   
+Introducing Nafisa AI: Your Fully-Fledged, Versatile, and Flexible Personal Assistant (177 words)
+
+Introducing Nafisa AI, your fully functional and ready-to-use personal assistant, powered by the cutting edge of Large Language Models (LLMs). No longer a project in development, Nafisa is here to revolutionize your daily interactions! .<br>
+- Nafisa isn't just about one voice. It has the ability to support various LLMs, including OpenAI's GPT-3.5 and Perplexity, allowing you to choose the voice and style that best suits your needs <br>
+- Nafisa is incredibly lightweight, running smoothly even on a Raspberry Pi 4! This opens up exciting possibilities – you can self-host her on your local network, ensuring complete control and privacy.. <br>
+- Nafisa is more than just an assistant; she's a versatile tool designed to adapt to you. Whether you need information retrieval, scheduling, or even a creative spark, Nafisa's personalized approach and ever-expanding capabilities are here to empower you <br>
+- Experience the future of personal assistants, where flexibility, power, and privacy meet
+Try now for your shelf here . 
 <br>
 
-<!-- ## Deployed Project Link: https://soham-engage-ibs.herokuapp.com/ -->
+### Deployed Project Link: http://llm.ad-cloud.in:8501/
 
 ## Tech Stack Used : <br>
 FrontEnd : ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
