@@ -8,8 +8,8 @@
 ### About Nafisa AI Project 
 
 
-<img src="https://imgur.com/a/G2vBHMg" alt="IBS Logo" height="300px" width="300px">
-- ##   
+<img src="https://imgur.com/a/G2vBHMg" alt="IBS Logo" height="500px" > 
+- #  
 Introducing Nafisa AI: Your Fully-Fledged, Versatile, and Flexible Personal Assistant (177 words)
 
 Introducing Nafisa AI, your fully functional and ready-to-use personal assistant, powered by the cutting edge of Large Language Models (LLMs). No longer a project in development, Nafisa is here to revolutionize your daily interactions! .<br>
