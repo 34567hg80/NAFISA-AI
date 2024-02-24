@@ -8,7 +8,7 @@
 ### About Nafisa AI Project 
 
 
-<img src="https://imgur.com/a/G2vBHMg" alt="IBS Logo" height="500px" > 
+<img src="Assets/Screenshot 2024-02-22 013434.png" alt="Home page" height="500px" > 
 - #  
 Introducing Nafisa AI: Your Fully-Fledged, Versatile, and Flexible Personal Assistant (177 words)
 
