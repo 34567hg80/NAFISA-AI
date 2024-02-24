@@ -39,17 +39,12 @@ Database : ![SQLite3](https://img.shields.io/badge/-SQLite3-000?&logo=sqlite&log
 ## SetUp on Your Local (Instruction):
 
 ###  Instructions for Linux ( Ubuntu, Debian , Raspbian ) 
-### 64Bit OS required
+### 64Bit OS required, 
 <ul>
-
-    <li>Update system and terminal : 
-sudo apt update && sudo apt upgrade 
-``` </li>
-   
-    <li>Install the required packages for the compilation of Python source code : $ 
-sudo apt install wget build-essential libreadline-gplv2-dev libncursesw5-dev \
-     libssl-dev libsqlite3-dev tk-dev libgdbm-dev libc6-dev libbz2-dev libffi-dev zlib1g-dev  
-```/li>
+    <li>Install HomeBrew on You Mac : <br>  $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" </li>
+    <li>Install Python3 : $ brew install python3 </li>
+    <li>Install PIP : $ python3 get-pip.py</li>
+    <li>Install requirements : $ pip3 install -r requirements.txt</li>
     <li>$ django-admin</li>
     <li>$ django-admin startproject projectName</li>
     <li>$ cd projectName</li> 
