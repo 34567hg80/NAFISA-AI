@@ -62,14 +62,14 @@ Database : ![SQLite3](https://img.shields.io/badge/-SQLite3-000?&logo=sqlite&log
 <br> 
 <hr>
 
-This Project is a part of KiiT University Major Project (7-Sem). Under the guidance of [AJIT PASAYAT](https://www.linkedin.com/in/ajit-pasayat-41034165/) Submitted by <br>  
+This Project is a part of KiiT University Major Project (8-Sem). Under the guidance of [AJIT PASAYAT](https://www.linkedin.com/in/ajit-pasayat-41034165/) Submitted by <br>  
 
 
 ![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Soham Samanta](https://www.linkedin.com/in/soham-samanta2000/) <br> 
 
-![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Shibalik Dhara](https://www.linkedin.com/in/shibalik-dhara-b5873a212/) <br> 
-
 ![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Hritesh Ghosh](https://www.linkedin.com/in/hritesh-g-520aa6236/) <br> 
+
+![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Shibalik Dhara](https://www.linkedin.com/in/shibalik-dhara-b5873a212/) <br> 
 
 ![LinkedIN](https://img.shields.io/badge/-000?&logo=Linkedin&logoColor=blue)[Suhena Datta Chowdhury](https://www.linkedin.com/in/suhena-datta-chowdhury-b50a69178/) <br> 
 
